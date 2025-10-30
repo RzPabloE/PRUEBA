@@ -1,0 +1,5 @@
+{
+  "name": "EDITOR DEL ESTERO",
+  "description": "EDITOR DEL ESTERO: Edita imágenes usando prompts de texto con el modelo Gemini 2.5 Flash Image. Agrega filtros, elimina objetos y transforma tus fotos con comandos simples.",
+  "requestFramePermissions": []
+}
